@@ -6,6 +6,7 @@
     <PackAsTool>true</PackAsTool>
     <PackageId>wk.DotNetProject</PackageId>
     <ToolCommandName>wk-dotnet-project</ToolCommandName>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
